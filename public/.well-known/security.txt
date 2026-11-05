@@ -1,0 +1,7 @@
+Contact: mailto:security@jdsfurniture.lk
+Contact: https://wa.me/94701095008
+Expires: 2027-12-31T23:59:59.000Z
+Preferred-Languages: en, si
+Canonical: https://jdsfurniture.lk/.well-known/security.txt
+Policy: https://jdsfurniture.lk/security-policy
+
